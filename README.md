@@ -4,10 +4,10 @@
 
 Single git command for upload file in github--
 steps:- (only for linux os) 
-1) save the following code in your file <your_file_name.sh>
+1) save the following code in your file "your_file_name.sh" 
 2) and save this file in your github repository in 
 your computer. 
-3) enter <bash your_file_name.sh> in linux terminal
+3) enter "bash your_file_name.sh" in linux terminal
 4) stop.
 code is:-
 
